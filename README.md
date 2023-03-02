@@ -1,1 +1,1 @@
-Use make to compile the code. Then run ./threads to run the program without synchronization or ./plocks to run the program with Pthread Lock synchronization.
+Use make to compile the code. Then run ./threads to run the program without synchronization, ./plocks to run the program with Pthread Lock synchronization, or ./tasLocks to run the program with Test-and-Set Lock synchronization.
