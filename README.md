@@ -1,2 +1,1 @@
-Use make to compile the code. Then run with ./threads
-Does not contain any locks yet. Will work on that tomorrow (March 1st).
+Use make to compile the code. Then run ./threads to run the program without synchronization or ./plocks to run the program with Pthread Lock synchronization.

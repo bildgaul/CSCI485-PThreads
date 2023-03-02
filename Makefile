@@ -3,4 +3,4 @@ all: threads.c threadPLocks.c
 	gcc -pthread -Wall -o plocks threadPLocks.c
 
 clean:
-	$(RM) threads *~
+	rm -f threads plocks *~
